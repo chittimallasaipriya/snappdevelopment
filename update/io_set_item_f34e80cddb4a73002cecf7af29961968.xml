@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="to get desktop">322b8cc5db4a73002cecf7af299619b8</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:29:19</sys_created_on>
+        <sys_id>f34e80cddb4a73002cecf7af29961968</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>student details.to get desktop</sys_name>
+        <sys_package display_value="it" source="x_366634_it">dcdb3954db0233002cecf7af299619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="it">dcdb3954db0233002cecf7af299619c3</sys_scope>
+        <sys_update_name>io_set_item_f34e80cddb4a73002cecf7af29961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:29:19</sys_updated_on>
+        <variable_set display_value="student details">decbc44ddb4a73002cecf7af29961942</variable_set>
+    </io_set_item>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="logincident" max_length="40" name="x_366634_it_logincident" sizeclass="2" type="collection">
+        <element choice="1" default="email" label="contact" mandatory="true" max_length="40" name="contact" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Contact2" mandatory="true" max_length="100" name="contact2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element choice="1" label="contact3" mandatory="true" max_length="40" name="contact3" type="choice">
+            <choice/>
+        </element>
+        <element label="desc" max_length="100" name="desc" type="string"/>
+        <element label="history" max_length="4000" name="history" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestdate1" max_length="40" name="requestdate1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Returndate" max_length="40" name="returndate" type="glide_date"/>
+        <element default="testdefault" label="short" max_length="100" name="short" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RETURNDATE" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="REQUESTDATE" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+    </element>
+</database>
