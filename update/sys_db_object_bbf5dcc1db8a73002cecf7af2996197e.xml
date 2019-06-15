@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
-        <actions_access>false</actions_access>
-        <alter_access>false</alter_access>
-        <client_scripts_access>false</client_scripts_access>
-        <configuration_access>false</configuration_access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
         <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>true</delete_access>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-13 05:03:32</sys_created_on>
         <sys_id>bbf5dcc1db8a73002cecf7af2996197e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>backup</sys_name>
         <sys_package display_value="it" source="x_366634_it">dcdb3954db0233002cecf7af299619c3</sys_package>
         <sys_policy/>
         <sys_scope display_value="it">dcdb3954db0233002cecf7af299619c3</sys_scope>
         <sys_update_name>sys_db_object_bbf5dcc1db8a73002cecf7af2996197e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-13 05:03:33</sys_updated_on>
+        <sys_updated_on>2019-06-15 04:38:29</sys_updated_on>
         <update_access>true</update_access>
         <user_role display_value="x_366634_it.backup_user" name="x_366634_it.backup_user">e745d881db8a73002cecf7af299619e8</user_role>
         <ws_access>true</ws_access>

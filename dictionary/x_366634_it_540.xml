@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="540" max_length="40" name="x_366634_it_540" type="collection">
-        <element label="a" max_length="40" name="a" type="string"/>
+    <element extends="task" label="540" max_length="40" name="x_366634_it_540" sizeclass="7" type="collection">
+        <element choice="1" label="Choice" mandatory="true" max_length="40" name="choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hardware" value="hardware"/>
+                <element inactive_on_update="false" label="software" value="software"/>
+            </choice>
+        </element>
     </element>
 </database>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="suggestionbox" max_length="40" name="x_366634_it_suggestionbox" type="collection">
-        <element choice="1" default="rating" label="rating" mandatory="true" max_length="50" name="rating" type="integer">
-            <choice/>
-        </element>
-    </element>
-</database>

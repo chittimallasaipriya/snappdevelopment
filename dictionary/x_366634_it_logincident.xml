@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="logincident" max_length="40" name="x_366634_it_logincident" sizeclass="2" type="collection">
+    <element extends="task" label="logincident" max_length="40" name="x_366634_it_logincident" sizeclass="17" type="collection">
+        <element choice="1" label="Category" max_length="520" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="harware" value="hardware"/>
+                <element inactive_on_update="false" label="software" value="software"/>
+            </choice>
+        </element>
         <element choice="1" default="email" label="contact" mandatory="true" max_length="40" name="contact" type="choice">
             <choice/>
         </element>

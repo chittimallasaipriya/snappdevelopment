@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="sriindu" max_length="40" name="x_366634_it_sriindu" type="collection">
-        <element choice="1" default="phn" label="contact" mandatory="true" max_length="100" name="contact" type="choice">
-            <choice/>
-        </element>
-    </element>
-</database>

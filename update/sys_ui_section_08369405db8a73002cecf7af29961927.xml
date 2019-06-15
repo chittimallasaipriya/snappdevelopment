@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 05:03:44</sys_created_on>
-            <sys_id>c0369805db8a73002cecf7af299619d7</sys_id>
+            <sys_created_on>2019-06-15 04:28:29</sys_created_on>
+            <sys_id>0b4162eddbc2f3002cecf7af29961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_366634_it_backup" sys_domain="global" view="Default view">08369405db8a73002cecf7af29961927</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 05:03:44</sys_updated_on>
+            <sys_updated_on>2019-06-15 04:28:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>short_description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 05:03:44</sys_created_on>
-            <sys_id>44369805db8a73002cecf7af299619d7</sys_id>
+            <sys_created_on>2019-06-15 04:28:29</sys_created_on>
+            <sys_id>8f4162eddbc2f3002cecf7af29961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_366634_it_backup" sys_domain="global" view="Default view">08369405db8a73002cecf7af29961927</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 05:03:44</sys_updated_on>
+            <sys_updated_on>2019-06-15 04:28:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
