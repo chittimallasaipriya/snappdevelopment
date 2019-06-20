@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="wspublish" language="en" table="x_366634_it_wspublish">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>wspublish</label>
+            <language>en</language>
+            <name>x_366634_it_wspublish</name>
+            <plural>wspublishes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:25:26</sys_created_on>
+            <sys_id>d762673adb4233002cecf7af29961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>wspublish</sys_name>
+            <sys_package display_value="it" source="x_366634_it">dcdb3954db0233002cecf7af299619c3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="it">dcdb3954db0233002cecf7af299619c3</sys_scope>
+            <sys_update_name>sys_documentation_x_366634_it_wspublish__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:25:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

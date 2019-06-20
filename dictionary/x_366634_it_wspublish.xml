@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="wspublish" max_length="40" name="x_366634_it_wspublish" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_shortdescription" label="shortdescription" max_length="40" name="u_shortdescription" type="string"/>
+    </element>
+</database>
